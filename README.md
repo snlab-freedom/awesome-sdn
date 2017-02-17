@@ -1,6 +1,6 @@
 # Awesome - Software Defined Networking
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/snlab-freedom/awesome-sdn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/snlab-freedom/awesome-sdn) [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
 
 A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
 
@@ -154,9 +154,15 @@ protocol, based on Twisted.
 
 ### OpenFlow Switch
 
+TBD
+
 ### NetFPGA
 
+TBD
+
 ### Chips
+
+TBD
 
 ## Research Papers
 
