@@ -126,11 +126,11 @@ protocol, based on Twisted.
 
 ### NetDevOp
 
-- [NetIDE](https://github.com/fp7-netide/IDE)
+- [NetIDE](https://github.com/fp7-netide/Engine) - Enable Network App programs to be executed, systematically tested, and refined on a variety of concrete SDN platforms.
 
 ### Network Monitor / Analysis
 
-- [PerfSonar](http://www.perfsonar.net/)
+- [PerfSonar](http://www.perfsonar.net/) - perfSONAR is a network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.
 
 ### Test Tool
 
@@ -166,7 +166,7 @@ TBD
 
 ## Research Papers
 
-Please go to [ONF SDN Reading List](https://www.opennetworking.org/sdn-resources/sdn-reading-list). Thanks again for ONF!
+Please go to [ONF SDN Reading List](https://www.opennetworking.org/sdn-resources/sdn-reading-list). Thanks again to ONF!
 
 ### Additional Research Papers
 
@@ -200,6 +200,6 @@ TBD
 
 ## Acknowledgement
 
-Thanks for [Open Networking Foundation](https://www.opennetworking.org/) to summarize the awesome paper reading list.
+Thanks to [Open Networking Foundation](https://www.opennetworking.org/) for summarizing the awesome paper reading list.
 
-Thanks for [SDNDS-TW](https://github.com/sdnds-tw) to draft the awesome list of SDN software resources.
+Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list of SDN software resources.
