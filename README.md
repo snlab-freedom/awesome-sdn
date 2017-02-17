@@ -42,11 +42,11 @@ A curated list of awesome SDN (Software Defined Networking) papers, projects and
 
 ## Background
 
-Before this list, there exist other lists to summarize the resources about SDN, such as [Google SDN Reading List](https://sites.google.com/site/sdnreadinglist/), [ONF Recommended SDN Reading List](https://www.opennetworking.org/sdn-resources/sdn-reading-list) and [Awesome SDN from sdnds-tw](https://github.com/sdnds-tw/awesome-sdn). But these lists only focus on one aspect of the *classic* research papers, *popular* opensource projects and well-known communities. In my opinion, a comprehensive list about all of the aspects I just mentioned is necessary. Both beginners and professional people will benefit from it.
+Before this list, there exist other lists to summarize the resources about SDN, such as [Google SDN Reading List], [ONF Recommended SDN Reading List] and [Awesome SDN from sdnds-tw]. But these lists only focus on one aspect of the *classic* research papers, *popular* opensource projects and well-known communities. In my opinion, a comprehensive list about all of the aspects I just mentioned is necessary. Both beginners and professional people will benefit from it.
 
 ## Software Projects
 
-The initial version is forked from [SDNDS-TW](https://github.com/sdnds-tw/awesome-sdn) but re-organized. Thanks again!
+The initial version is forked from [SDNDS-TW][Awesome SDN from sdnds-tw] but re-organized. Thanks again!
 
 ### Distributed Network OS
 
@@ -55,9 +55,9 @@ The initial version is forked from [SDNDS-TW](https://github.com/sdnds-tw/awesom
 
 ### Controller
 
-- [NOX](http://www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
-- [POX](http://www.noxrepo.org/pox/about-pox/) - A networking software platform written in Python
+- [POX](https://github.com/noxrepo/pox) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
 - [Floodlight](https://github.com/floodlight/floodlight) - A java-based openflow controller.
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
@@ -166,7 +166,7 @@ TBD
 
 ## Research Papers
 
-Please go to [ONF SDN Reading List](https://www.opennetworking.org/sdn-resources/sdn-reading-list). Thanks again to ONF!
+Please go to [ONF SDN Reading List]. Thanks again to ONF!
 
 ### Additional Research Papers
 
@@ -182,7 +182,7 @@ TBD
 
 ### Organization
 
-- [ONF](https://www.opennetworking.org/) - Open Networking Foundation.
+- [ONF] - Open Networking Foundation.
 - [Open Source SDN](http://opensourcesdn.org/) - A collection of open source projects about SDN. Launched by ONF.
 - [ON.Lab](http://onlab.us/)
 - [SDxCentral](https://www.sdxcentral.com/)
@@ -200,6 +200,11 @@ TBD
 
 ## Acknowledgement
 
-Thanks to [Open Networking Foundation](https://www.opennetworking.org/) for summarizing the awesome paper reading list.
+Thanks to [Open Networking Foundation][ONF] for summarizing the awesome paper reading list.
 
 Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list of SDN software resources.
+
+  [Google SDN Reading List]: https://sites.google.com/site/sdnreadinglist/
+  [ONF Recommended SDN Reading List]: https://www.opennetworking.org/sdn-resources/sdn-reading-list
+  [Awesome SDN from sdnds-tw]: https://github.com/sdnds-tw/awesome-sdn
+  [ONF]: https://www.opennetworking.org/
