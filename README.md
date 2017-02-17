@@ -32,6 +32,9 @@ A curated list of awesome SDN (Software Defined Networking) papers, projects and
     - [Research Papers](#research-papers)
         - [Additional Research Papers](#additional-research-papers)
     - [Tutorials](#tutorials)
+        - [OpenDaylight](#opendaylight)
+        - [ONOS](#onos)
+    - [Courses](#courses)
     - [Communities](#communities)
         - [Organization](#organization)
         - [Social Forum / BBS](#social-forum--bbs)
@@ -176,7 +179,18 @@ TBD
 
 ## Tutorials
 
-TBD
+### OpenDaylight
+
+- [Controller Core Functionality Tutorials: Application Development Tutorial](https://wiki.opendaylight.org/view/Controller_Core_Functionality_Tutorials:Application_Development_Tutorial)
+
+### ONOS
+
+- [Official Tutorials Page](https://wiki.onosproject.org/display/ONOS/Tutorials)
+
+## Courses
+
+- [COMS E6998: Software Defined Networking](http://www.cs.columbia.edu/~lierranli/coms6998-10SDNFall2014/) by Li Erran Li, Fall 2014, Columbia University
+- [CPSC 434/534: Topics in Networked Systems](http://zoo.cs.yale.edu/classes/cs434/cs434-2017-spring/schedule.shtml) by Y. Richard Yang, Spring 2017, Yale University
 
 ## Communities
 
