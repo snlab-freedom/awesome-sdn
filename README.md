@@ -169,7 +169,7 @@ TBD
 
 ## Research Papers
 
-Please go to [ONF SDN Reading List]. Thanks again to ONF!
+Please go to [ONF SDN Reading List][ONF Recommended SDN Reading List]. Thanks again to [ONF]!
 
 ### Additional Research Papers
 
