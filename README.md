@@ -123,8 +123,10 @@ protocol, based on Twisted.
 ### Simulator / Emulator
 
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
-- [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
-- [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
+- [Multinet](https://github.com/intracom-telecom-sdn/multinet) - The goal of Multinet is to provide a fast, controlled and resource-efficient way to boot large-scale SDN topologies.
+- [MaxiNet](https://maxinet.github.io/) - A distributed emulator of Software-Defined Networks.
+- [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network.
+- [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning.
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports openflow environment.
 
 ### NetDevOp
@@ -137,15 +139,17 @@ protocol, based on Twisted.
 
 ### Test Tool
 
-- [oftest](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
+- [oftest](https://github.com/floodlight/oftest) - OpenFlow Testing Framework.
 - [STS](https://ucb-sts.github.com/sts/) - SDN Troubleshooting System, simulates network devices, allowing programmatically test cases generation.
 - [nice-of](https://code.google.com/archive/p/nice-of/) - A tool to test OpenFlow controller application for the NOX controller platform.
 - [OpenSDNCore](http://www.opensdncore.org/) - Virtualisation Testbed for NFV/SDN Environment.
+- [OFLOPS](https://github.com/mininet/oflops) - OpenFlow Operations Per Second. A benchmarking suite for openflow switches.
 
 ### Orchestrator
 
 - [OPEN-Orchestrator Project, Open-O](https://www.open-o.org)
 - [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
+- [Open Network Automation Platform, ONAP](https://www.onap.org/) - The merger of Open-O and ECOMP.
 
 ### Misc
 
@@ -199,14 +203,15 @@ TBD
 - [ONF] - Open Networking Foundation.
 - [Open Source SDN](http://opensourcesdn.org/) - A collection of open source projects about SDN. Launched by ONF.
 - [ON.Lab](http://onlab.us/)
-- [SDxCentral](https://www.sdxcentral.com/)
+- [SDxCentral](https://www.sdxcentral.com/) - The Trusted News & Resource Site for Sofware-defined Everything (SDx), SDDC, SDN, SDS, Containers NFV, Cloud and Virtualization.
 - [SDNHub](http://sdnhub.org/)
 - [IETF Software Defined Networking Research Group (sdnrg)](https://datatracker.ietf.org/rg/sdnrg/charter/)
-- [SDNLAB](http://www.sdnlab.com/)
+- [SDNLAB](http://www.sdnlab.com/) - A leading platform of technology media and service which focus on innovative network technology in China.
+- [OCP](http://www.opencompute.org/) - A collaborative community focused on redesigning hardware technology to efficiently support the growing demands on compute infrastructure.
 
-### Social Forum / BBS
+### Blogs
 
-TBD
+- [Blogging All Things Networking](http://networkstatic.net) - Blogging All Things Networking, Programming and Computing.
 
 ### Q & A
 
